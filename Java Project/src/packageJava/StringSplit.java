@@ -1,6 +1,6 @@
 package packageJava;
 
-public class SplitString {
+public class StringSplit {
 
 	public static void main(String[] args) {
 		

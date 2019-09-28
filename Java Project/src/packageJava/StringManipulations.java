@@ -1,6 +1,6 @@
 package packageJava;
 
-public class stringManipulations {
+public class StringManipulations {
 
 	/*
 	 * String is a collection of different characters which are written within
@@ -32,13 +32,13 @@ public class stringManipulations {
 
 		System.out.println("Index of 'started' is :" + str.indexOf("started"));
 
-		System.out.println("is str is equlal to str1 :" + str.equalsIgnoreCase(str1));
+		System.out.println("is str is equlal to str1 ignore case:" + str.equalsIgnoreCase(str1));
 
 		System.out.println("is str is equlal to str1 :" + str.equals(str1));
 
-		System.out.println("is str is equlal to str1 :" + str.equals(str2));
+		System.out.println("is str is equlal to str2 :" + str.equals(str2));
 
-		System.out.println("is str is equlal to str1 :" + str.substring(0, 9));
+		System.out.println("Substring of str between 0 to 9 :" + str.substring(0, 9));
 
 		String ch = "  This is chandan  ";
 

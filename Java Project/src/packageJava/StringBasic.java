@@ -1,6 +1,6 @@
 package packageJava;
 
-public class stringBasic {
+public class StringBasic {
 	
 	public static void main(String[] args) {
 		
