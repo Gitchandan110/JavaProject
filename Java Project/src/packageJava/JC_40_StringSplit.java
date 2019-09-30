@@ -1,6 +1,6 @@
 package packageJava;
 
-public class StringSplit {
+public class JC_40_StringSplit {
 
 	public static void main(String[] args) {
 		

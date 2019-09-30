@@ -1,6 +1,6 @@
 package packageJava;
 
-public class StringManipulations {
+public class JC_38_StringManipulations {
 
 	/*
 	 * String is a collection of different characters which are written within

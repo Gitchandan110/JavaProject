@@ -1,6 +1,6 @@
 package packageJava;
 
-public class BrandBMW implements VehicleInterface{
+public class JC_26_BrandBMW implements JC_42_VehicleInterface{
 	
 	@Override
 	public void vBreak() {
@@ -31,7 +31,7 @@ public class BrandBMW implements VehicleInterface{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		VehicleInterface objVehicleBMW = new BrandBMW();
+		JC_42_VehicleInterface objVehicleBMW = new JC_26_BrandBMW();
 		
 		objVehicleBMW.vBreak();
 		objVehicleBMW.vFuel();

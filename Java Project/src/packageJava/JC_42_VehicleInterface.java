@@ -2,7 +2,7 @@ package packageJava;
 
 //Interface class created with abstract method
 
-public interface VehicleInterface {
+public interface JC_42_VehicleInterface {
 	
 	public abstract void vBreak();
 	public abstract void vGear();

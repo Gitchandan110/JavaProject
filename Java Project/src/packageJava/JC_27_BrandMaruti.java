@@ -1,6 +1,6 @@
 package packageJava;
 
-public class BrandMaruti implements VehicleInterface{
+public class JC_27_BrandMaruti implements JC_42_VehicleInterface{
 
 	@Override
 	public void vBreak() {
@@ -35,7 +35,7 @@ public class BrandMaruti implements VehicleInterface{
 	
 	public static void main(String[] args) {
 		
-		VehicleInterface objVehicleMaruti=new BrandMaruti();
+		JC_42_VehicleInterface objVehicleMaruti=new JC_27_BrandMaruti();
 		objVehicleMaruti.vBreak();
 		objVehicleMaruti.vFuel();
 		objVehicleMaruti.vGear();

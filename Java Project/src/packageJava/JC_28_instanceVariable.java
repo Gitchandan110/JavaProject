@@ -1,6 +1,6 @@
 package packageJava;
 
-public class instanceVariable {
+public class JC_28_instanceVariable {
 	
 	//Instance variable is created outside the method (arithmetics()) but inside the class(instanceVariable).
 	
@@ -28,7 +28,7 @@ public class instanceVariable {
 	
 	public static void main(String[] args) {
 		
-		instanceVariable iv= new instanceVariable();
+		JC_28_instanceVariable iv= new JC_28_instanceVariable();
 		
 		iv.arithmetics();
 		

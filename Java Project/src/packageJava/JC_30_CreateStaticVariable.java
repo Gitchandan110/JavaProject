@@ -1,6 +1,6 @@
 package packageJava;
 
-public class createStaticVariable {
+public class JC_30_CreateStaticVariable {
 	
 	//static variable can be used in another class means outside the class where it has been created.
 	
@@ -19,7 +19,7 @@ public class createStaticVariable {
 	
 	public static void main(String[] args) {
 		
-		createStaticVariable sv=new createStaticVariable();
+		JC_30_CreateStaticVariable sv=new JC_30_CreateStaticVariable();
 		
 		sv.testStatic();
 		

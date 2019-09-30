@@ -1,6 +1,6 @@
 package packageJava;
 
-public class localVariables {
+public class JC_25_localVariables {
 	
 	//Local Variable example
 	public void addnum() {
@@ -24,7 +24,7 @@ public class localVariables {
 	
 	public static void main(String[] args) {
 		
-	localVariables lv=new localVariables();
+	JC_25_localVariables lv=new JC_25_localVariables();
 		
 		 lv.addnum();
 }

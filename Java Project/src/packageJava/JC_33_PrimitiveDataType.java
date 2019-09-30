@@ -1,6 +1,6 @@
 package packageJava;
 
-public class primitiveDataType {
+public class JC_33_PrimitiveDataType {
 
 	/*
 	 * There are 8 types of primitive data type is in Java 1) boolean 2) long 3)

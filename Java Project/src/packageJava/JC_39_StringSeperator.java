@@ -1,6 +1,6 @@
 package packageJava;
 
-public class StringSeperator {
+public class JC_39_StringSeperator {
 	
 	
 	// Separate characters,special characters and numbers from the given strings.

@@ -1,6 +1,6 @@
 package packageJava;
 
-public interface ShowRoomInterface {
+public interface JC_34_ShowRoomInterface {
 	
 	public abstract void delhi();
 	

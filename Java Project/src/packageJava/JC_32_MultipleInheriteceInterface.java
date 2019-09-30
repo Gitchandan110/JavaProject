@@ -1,6 +1,6 @@
 package packageJava;
 
-public class multipleInheriteceInterface implements VehicleInterface, ShowRoomInterface{
+public class JC_32_MultipleInheriteceInterface implements JC_42_VehicleInterface, JC_34_ShowRoomInterface{
 	
 	
 	@Override
@@ -57,8 +57,8 @@ public class multipleInheriteceInterface implements VehicleInterface, ShowRoomIn
 	public static void main(String[] args) {
 		
 	// TODO Auto-generated method stub
-		VehicleInterface vh=new multipleInheriteceInterface();
-		ShowRoomInterface SRInt=new multipleInheriteceInterface();
+		JC_42_VehicleInterface vh=new JC_32_MultipleInheriteceInterface();
+		JC_34_ShowRoomInterface SRInt=new JC_32_MultipleInheriteceInterface();
 		vh.vBreak();
 		vh.vFuel();
 		vh.vGear();

@@ -1,6 +1,6 @@
 package packageJava;
 
-public class useStaticVariable {
+public class JC_41_StaticVariableUses {
 	
 	
 	public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package packageJava;
 
-public class StringBasic {
+public class JC_36_StringBasic {
 	
 	public static void main(String[] args) {
 		

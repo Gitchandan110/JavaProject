@@ -1,6 +1,6 @@
 package packageJava;
 
-public class FinalVariable {
+public class JC_29_FinalVariable {
 
 	public static void main(String[] args) {
 

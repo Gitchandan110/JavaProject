@@ -1,6 +1,6 @@
 package packageJava;
 
-public class StringBufferTest {
+public class JC_37_StringBufferTest {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package packageJava;
 
-public class StaticVariableDemo {
+public class JC_35_StaticVariableDemo {
 	
 	//Create one Class level variable with Static Keyword
 	static int i=10;
@@ -15,7 +15,7 @@ public class StaticVariableDemo {
 		"StaticVariableDeom */
 		
 		System.out.println(i);
-		System.out.println(StaticVariableDemo.i);
+		System.out.println(JC_35_StaticVariableDemo.i);
 		
 		/*we can not access Non static variable j without creating an object of parent class 
 		"StaticVariableDeom. It will show error as given below */
@@ -25,7 +25,7 @@ public class StaticVariableDemo {
 		/*To access Non static variable j we need to create an object of parent class 
 		"StaticVariableDeom", as given below */
 		
-		StaticVariableDemo svd=new StaticVariableDemo();
+		JC_35_StaticVariableDemo svd=new JC_35_StaticVariableDemo();
 	    System.out.println(svd.j);
 		
 
