@@ -7,11 +7,10 @@ public class JC_41_StaticVariable {
 	// Instance Variable
 	int EmpId;
 	String EmpName;
-//	String ComanyName;
-	/*
-	 * As company name is fixed for all employee so we can make it Static variable
-	 * as it has common value for all the object
-	 */
+	
+	/*As company name and Address is fixed for all employee so we can make it Static variable
+	 as it has common value for all the object*/
+	
 
 	static String CompanyName="Netsutra";
 	static String Address="Ghaziabad";
@@ -29,7 +28,7 @@ public class JC_41_StaticVariable {
 
 	public void empDetails() {
 
-		System.out.println(EmpId + " " + EmpName + " "+" "+CompanyName+" "+Address);
+		System.out.println(EmpId+" "+EmpName+" "+" "+CompanyName+" "+Address);
 
 	}
 
