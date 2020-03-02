@@ -2,7 +2,7 @@ package packageJava;
 
 import java.util.ArrayList;
 
-public class JC_23_ArrayList {
+public class JC_23_ArrayListAdd {
 
 	public static void main(String[] args) {
 		

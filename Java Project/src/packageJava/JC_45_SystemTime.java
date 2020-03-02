@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-public class JC45_SystemTime {
+public class JC_45_SystemTime {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
