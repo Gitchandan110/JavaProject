@@ -20,6 +20,7 @@ public class JC_40_StringSplit {
 	for (int i=0; i<splitSentence.length;i++) {
 		
 		System.out.println(splitSentence[i]);
+		System.out.println("Hello All");
 		
 		
 	}
@@ -29,6 +30,7 @@ public class JC_40_StringSplit {
 	 String splitSentence1[]=sentence1.split(" ");
 	 for (int i=0;i<splitSentence1.length;i++) {
 	 System.out.println(splitSentence1[i]);
+	 System.out.println("Hello All");
 		 
 	 }
 

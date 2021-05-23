@@ -7,6 +7,7 @@ public class JC_47_Dog extends JC_46_Abstract_Class{
 	public void animalSound() {
 		// TODO Auto-generated method stub
 		System.out.println("Dog Sound is called :Barking");
+		System.out.println("Hello All");
 		
 	}
 
@@ -15,6 +16,7 @@ public class JC_47_Dog extends JC_46_Abstract_Class{
 	public void animalColor() {
 		// TODO Auto-generated method stub
 		System.out.println("Dog Color is Black & White");
+		System.out.println("Hello All");
 		
 	}
 
