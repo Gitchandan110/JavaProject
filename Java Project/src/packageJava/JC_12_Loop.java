@@ -15,6 +15,7 @@ public class JC_12_Loop {
 		for(int value=0; value<=count; value++) {
 			
 			System.out.println(Name);
+			System.out.println(value);
 			
 		}
 		
