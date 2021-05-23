@@ -1,5 +1,8 @@
 package packageJava;
 
+
+//Chandan kumar
+
 public class JC_09_Sum {
 	
 	public static void main(String[] args){
@@ -11,6 +14,7 @@ public class JC_09_Sum {
 	
 	{
 	System.out.println("Sum of x & y is: "+z);
+	System.out.println(z);
 	}
 	
 	if (z!=y){
