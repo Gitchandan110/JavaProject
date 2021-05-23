@@ -10,13 +10,13 @@ public class JC_05_WhileLoop {
 		while (a < 10) {
 
 			System.out.println(a);
-			System.out.println(a);
+	
 			a++;
 
 		}
 
 		int b = 100;
-
+		System.out.println(b);
 		while (b >= 90) {
 
 			System.out.println(b);
