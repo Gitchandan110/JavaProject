@@ -18,9 +18,9 @@ public class JC_14_StarPrint {
 			for (j=0; j<=i; j++)
 			
 			System.out.print("*");
-			
 			System.out.println();
-			
+			System.out.println();
+			System.out.println("what is this");
 			
 			
 		}
