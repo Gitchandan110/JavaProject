@@ -13,6 +13,7 @@ public class JC_04_SwitchBreak {
 			
 			
 			System.out.println("Distinction");
+			System.out.println("what is this");
 			
 			break;
 			
@@ -20,6 +21,7 @@ public class JC_04_SwitchBreak {
 			
 			
 		System.out.println("Very Good");
+		System.out.println("what is this");
 		
 		break;
 		

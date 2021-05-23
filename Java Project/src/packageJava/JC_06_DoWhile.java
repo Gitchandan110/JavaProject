@@ -20,6 +20,7 @@ public class JC_06_DoWhile {
 		
 		
 		System.out.println(a);
+		System.out.println("what is this");
 		a--;
 	}
 	while (a >=0);
