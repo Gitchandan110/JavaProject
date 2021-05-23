@@ -10,7 +10,7 @@ public class JC_05_WhileLoop {
 		while (a < 10) {
 
 			System.out.println(a);
-
+			System.out.println(a);
 			a++;
 
 		}
