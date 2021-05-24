@@ -14,9 +14,10 @@ public class JC_20_SumIfElse {
 	}
 	
 	if (z!=y){
-//	System.out.println("z!=x+y");
+	System.out.println("z!=x+y");
 	System.out.println("z = " +z); 
 	System.out.println("y = " +y);
+	System.out.println("Hello");
 	}
 	
 	if (z>y){

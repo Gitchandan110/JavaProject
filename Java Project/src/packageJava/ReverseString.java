@@ -8,6 +8,7 @@ public class ReverseString {
 		String str="chandan kumar";
 	//	StringBuilder sb=new StringBuilder(str);
 	//	System.out.println(sb.reverse());
+//		System.out.println(sb.reverse());
 		
 		StringBuffer sbf=new StringBuffer(str);
 		System.out.println(sbf.reverse());

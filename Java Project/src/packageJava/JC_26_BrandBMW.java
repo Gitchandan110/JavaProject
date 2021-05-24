@@ -12,6 +12,7 @@ public class JC_26_BrandBMW implements JC_42_VehicleInterface{
 	public void vGear() {
 		// TODO Auto-generated method stub
 		System.out.println("8");
+		System.out.println("Hello");
 	}
 
 	@Override
