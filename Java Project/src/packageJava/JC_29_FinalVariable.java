@@ -8,7 +8,7 @@ public class JC_29_FinalVariable {
 
 		i = i + 20;
 
-		System.out.println(i);
+		System.out.println("New i value is : "+ i );
 
 	final int j = 12;
 

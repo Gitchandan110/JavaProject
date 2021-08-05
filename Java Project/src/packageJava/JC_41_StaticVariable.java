@@ -28,7 +28,7 @@ public class JC_41_StaticVariable {
 
 	public void empDetails() {
 
-		System.out.println(EmpId+" "+EmpName+" "+" "+CompanyName+" "+Address);
+		System.out.println( EmpId +" "+ EmpName +" "+  " " + CompanyName +" "+ Address);
 
 	}
 
