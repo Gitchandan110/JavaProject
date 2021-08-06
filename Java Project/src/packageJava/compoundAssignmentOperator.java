@@ -23,8 +23,9 @@ public class compoundAssignmentOperator {
 
 	public static void main(String[] args) {
 
-		compoundAssignmentOperator cao = new compoundAssignmentOperator();
-		cao.compoundOperator();
+		/*compoundAssignmentOperator cao = new compoundAssignmentOperator();
+		cao.compoundOperator();*/
+	
 
 	}
 
